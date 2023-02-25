@@ -10,7 +10,11 @@ public class Deneme {
         // Girtttt
         //Isa demirde iken bir sey ekledimm..
         // guncelleme isademirde
+
         //isademir de iken yazdim masterda yazdigim kodu unuttum..
+
+        //masterdayken yotum ekledim ..
+
 
     }
 }
