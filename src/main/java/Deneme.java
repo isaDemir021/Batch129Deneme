@@ -9,6 +9,7 @@ public class Deneme {
 
         // Girtttt
         //Isa demirde iken bir sey ekledimm..
+        // guncelleme isademirde
 
     }
 }
