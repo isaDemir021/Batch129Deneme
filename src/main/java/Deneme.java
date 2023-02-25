@@ -8,5 +8,7 @@ public class Deneme {
         //GitHubbbb
 
         // Girtttt
+        //Isa demirde iken bir sey ekledimm..
+
     }
 }
